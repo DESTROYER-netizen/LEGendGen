@@ -21,4 +21,8 @@ You should have received a copy of the GNU General Public License along with thi
 See './LICENSE' for more intimations.
 # how to run 
  termux/linux/windows
+ git clone https://github.com/DESTROYER-netizen/LEGendGen.git
+
+cd LEGendGen
+python3 LEGendGen.py 
 
